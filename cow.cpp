@@ -1,5 +1,6 @@
 #include "cow.h"// to include the class definitions from the header file
-// To resolve the scope of all the members of cow clss use 'cow::' before the member name
+//This is the implementation file 
+// To resolve the scope of all the members of cow class use 'cow::' before the member name
 
 //constructor for cow class
 cow::cow(std::string name_i,int age_i, unsigned char purpose_i){

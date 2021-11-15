@@ -1,4 +1,4 @@
-#ifdef COW_H
+#ifndef COW_H //here ifndef means if COW_H is not defined then execute the block
   #define COW_H
   #include<string>
   class cow{
